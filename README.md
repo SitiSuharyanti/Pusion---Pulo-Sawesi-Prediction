@@ -1,1 +1,1 @@
-# Pusion---Pulo-Sawesi-Prediction
+# Pusion-Pulo-Sawesi-Prediction
